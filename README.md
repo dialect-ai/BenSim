@@ -11,11 +11,6 @@ $ python setup.py bdist_wheel # to build
 $ pip install -e .
 ```
 
-### Setup from Git
-```bash
-$ pip install git+https://github.com/AbuUbaida/bensim
-```
-
 <!-- ## Developing Bangla BERT Similarity
 
 To install Bangla BERT Similarity, along with the tools you need to develop and run tests, run the following in your virtual environment:

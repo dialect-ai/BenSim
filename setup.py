@@ -7,8 +7,6 @@ with open("README.md", "r") as fh:
 setup(
     name='bensim',
     version=VERSION,
-    author='Abu Ubaida Akash',
-    author_email='abu.ubaida1206@gmail.com',
     description='Bengali Sentence Similarity Measurement',
     long_description=long_description,
     long_description_content_type="text/markdown",
