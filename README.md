@@ -69,7 +69,7 @@ score
 array([8.81357], dtype=float32)
 ```
 
-## References:
+## References
 * [Normalizer](https://github.com/csebuetnlp/normalizer)
 * [Bangla BERT](https://github.com/sagorbrur/bangla-bert)
 * [Euclidean Distance](https://en.wikipedia.org/wiki/Euclidean_distance)
